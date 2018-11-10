@@ -1,2 +1,2 @@
-# arch
+# Arch
 Arch Linux 
